@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-import google.generativeai as genai
+from google import genai
 import os
 import json
 from icalendar import Calendar, Event
@@ -16,9 +16,7 @@ def setup_gemini():
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         raise ValueError("GEMINI_API_KEY environment variable is not set.")
-    genai.configure(api_key=api_key)
-    # Use gemini-1.5-flash as it's fast and good at structured extraction
-    return genai.GenerativeModel('gemini-1.5-flash')
+    return genai.Client(api_key=api_key)
 
 def get_latest_articles():
     """Fetches the latest announcements articles links."""
@@ -52,7 +50,7 @@ def fetch_article_text(url):
         return content_div.get_text(separator='\n')
     return ""
 
-def extract_events_with_gemini(model, text, category_type):
+def extract_events_with_gemini(client, text, category_type):
     """
     category_type can be 'semaine', 'complementaires', 'permanence'.
     Returns a list of dicts: [{"title": "...", "start_time": "YYYY-MM-DDTHH:MM", "end_time": "YYYY-MM-DDTHH:MM", "description": "..."}, ...]
@@ -83,7 +81,10 @@ def extract_events_with_gemini(model, text, category_type):
     {text}
     """
     
-    response = model.generate_content(prompt)
+    response = client.models.generate_content(
+        model='gemini-2.5-flash',
+        contents=prompt
+    )
     raw_text = response.text.strip()
     
     # Clean up possible markdown code blocks around json
@@ -139,7 +140,7 @@ def create_ics(events, filename, cal_name):
     print(f"Generated {filename} with {len(events)} events.")
 
 def main():
-    model = setup_gemini()
+    client = setup_gemini()
     print("Fetching latest articles...")
     articles = get_latest_articles()
     
@@ -157,7 +158,7 @@ def main():
                 print(f"No text found for {url}")
                 continue
                 
-            events = extract_events_with_gemini(model, text, cat_key)
+            events = extract_events_with_gemini(client, text, cat_key)
             
             if events:
                 create_ics(events, mapping[cat_key]["filename"], mapping[cat_key]["cal_name"])

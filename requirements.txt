@@ -1,5 +1,5 @@
 requests
 icalendar
-google-generativeai
+google-genai
 pytz
 bs4
