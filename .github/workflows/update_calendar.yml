@@ -29,9 +29,8 @@ jobs:
         run: python scraper.py
 
       - name: Commit and push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add *.ics
-          # Only commit if there are changes
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-update calendars" && git pull --rebase origin master && git push)
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-update calendars"
+          file_pattern: "*.ics"
+          branch: master
