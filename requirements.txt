@@ -2,3 +2,4 @@ requests
 icalendar
 google-generativeai
 pytz
+bs4
