@@ -6,9 +6,9 @@ Ce projet permet de générer automatiquement des calendriers (fichiers `.ics`) 
 
 Une fois le projet mis en place sur GitHub, vous pourrez vous abonner à ces calendriers en utilisant les liens suivants (remplacez `VOTRE_USER` et `VOTRE_REPO` par votre nom d'utilisateur et le nom de votre dépôt) :
 
-- **Messes et Offices** : `https://raw.githubusercontent.com/VOTRE_USER/VOTRE_REPO/main/messes.ics`
-- **Conférences et Cours** : `https://raw.githubusercontent.com/VOTRE_USER/VOTRE_REPO/main/conferences.ics`
-- **Permanence des prêtres** : `https://raw.githubusercontent.com/VOTRE_USER/VOTRE_REPO/main/permanence.ics`
+- **Messes et Offices** : `https://raw.githubusercontent.com/Vit73520/Calendrier_Saint_nicolas/master/messes.ics`
+- **Conférences et Cours** : `https://raw.githubusercontent.com/Vit73520/Calendrier_Saint_nicolas/master/conferences.ics`
+- **Permanence des prêtres** : `https://raw.githubusercontent.com/Vit73520/Calendrier_Saint_nicolas/master/permanence.ics`
 
 ## Comment s'abonner (iOS)
 
