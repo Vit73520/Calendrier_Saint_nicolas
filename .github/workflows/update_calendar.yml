@@ -2,12 +2,14 @@ name: Update Calendars
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Run every day at midnight UTC
+    - cron: '0 4 * * *' # Run every day at 4 AM UTC (off-peak hours)
   workflow_dispatch: # Allow manual trigger
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
       - name: Checkout repository
