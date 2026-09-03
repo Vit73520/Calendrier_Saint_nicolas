@@ -7,59 +7,59 @@ BEGIN:VEVENT
 SUMMARY:Cours de catéchisme pour les enfants
 DTSTART;TZID=Europe/Paris:20260912T110000
 DTEND;TZID=Europe/Paris:20260912T120000
-DTSTAMP:20260902T082102Z
-DESCRIPTION:Reprise des cours de catéchisme pour les enfants. L’inscrip
- tion est obligatoire.
+DTSTAMP:20260903T083026Z
+DESCRIPTION:Reprise des cours. Inscription obligatoire. Fiches d'inscripti
+ on disponibles à la Procure et à la sacristie\, ou sur internet.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cours de catéchisme pour adultes (Jeudi)
-DTSTART;TZID=Europe/Paris:20260917T193000
-DTEND;TZID=Europe/Paris:20260917T203000
-DTSTAMP:20260902T082102Z
-DESCRIPTION:Reprise du catéchisme pour adultes. Entrée libre sans inscri
- ption. Ouvert à tous.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cours de catéchisme pour adultes (Samedi)
-DTSTART;TZID=Europe/Paris:20260919T110000
-DTEND;TZID=Europe/Paris:20260919T120000
-DTSTAMP:20260902T082102Z
-DESCRIPTION:Deuxième session hebdomadaire du catéchisme pour adultes. En
- trée libre sans inscription. Ouvert à tous.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cours de doctrine approfondie
-DTSTART;TZID=Europe/Paris:20260922T191500
-DTEND;TZID=Europe/Paris:20260922T201500
-DTSTAMP:20260902T082102Z
-DESCRIPTION:Reprise des cours. Entrée libre et sans inscription.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Service d’entraide (Reprise)
+SUMMARY:Service d'entraide (Reprise)
 DTSTART;TZID=Europe/Paris:20260910T150000
 DTEND;TZID=Europe/Paris:20260910T160000
-DTSTAMP:20260902T082102Z
+DTSTAMP:20260903T083026Z
 DESCRIPTION:Reprise du service d'entraide de la paroisse.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vestiaire (Reprise)
 DTSTART;TZID=Europe/Paris:20260914T140000
 DTEND;TZID=Europe/Paris:20260914T150000
-DTSTAMP:20260902T082102Z
-DESCRIPTION:Reprise du vestiaire paroissial.
+DTSTAMP:20260903T083026Z
+DESCRIPTION:Reprise du vestiaire de la paroisse.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cours de catéchisme pour adultes (Jeudi)
+DTSTART;TZID=Europe/Paris:20260917T193000
+DTEND;TZID=Europe/Paris:20260917T203000
+DTSTAMP:20260903T083026Z
+DESCRIPTION:Reprise des cours. Entrée libre\, sans inscription. Ouvert à
+  tous.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cours de catéchisme pour adultes (Samedi)
+DTSTART;TZID=Europe/Paris:20260919T110000
+DTEND;TZID=Europe/Paris:20260919T120000
+DTSTAMP:20260903T083026Z
+DESCRIPTION:Même cours que le jeudi soir. Entrée libre\, sans inscriptio
+ n. Ouvert à tous.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cours de doctrine approfondie
+DTSTART;TZID=Europe/Paris:20260922T191500
+DTEND;TZID=Europe/Paris:20260922T201500
+DTSTAMP:20260903T083026Z
+DESCRIPTION:Reprise des cours. Entrée libre et sans inscription.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kermesse paroissiale - Samedi
 DTSTART;TZID=Europe/Paris:20261003T140000
-DTEND;TZID=Europe/Paris:20261003T180000
-DTSTAMP:20260902T082102Z
-DESCRIPTION:Kermesse paroissiale\, à partir de 14h00.
+DTEND;TZID=Europe/Paris:20261003T150000
+DTSTAMP:20260903T083026Z
+DESCRIPTION:Kermesse paroissiale à partir de 14h00.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kermesse paroissiale - Dimanche
 DTSTART;TZID=Europe/Paris:20261004T090000
-DTEND;TZID=Europe/Paris:20261004T180000
-DTSTAMP:20260902T082102Z
-DESCRIPTION:Kermesse paroissiale\, à partir de 9h00.
+DTEND;TZID=Europe/Paris:20261004T100000
+DTSTAMP:20260903T083026Z
+DESCRIPTION:Kermesse paroissiale à partir de 9h00.
 END:VEVENT
 END:VCALENDAR
