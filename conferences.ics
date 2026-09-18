@@ -7,94 +7,30 @@ BEGIN:VEVENT
 SUMMARY:Cours de catéchisme pour les enfants
 DTSTART;TZID=Europe/Paris:20260912T110000
 DTEND;TZID=Europe/Paris:20260912T120000
-DTSTAMP:20260917T090827Z
+DTSTAMP:20260918T084231Z
 DESCRIPTION:Reprise des cours de catéchisme pour les enfants. Inscription
-  obligatoire (fiches disponibles à la Procure\, à la sacristie ou sur in
- ternet).
+  obligatoire.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Service d’entraide
-DTSTART;TZID=Europe/Paris:20260910T150000
-DTEND;TZID=Europe/Paris:20260910T160000
-DTSTAMP:20260917T090827Z
-DESCRIPTION:Reprise du service d'entraide.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reprise du vestiaire
-DTSTART;TZID=Europe/Paris:20260914T140000
-DTEND;TZID=Europe/Paris:20260914T150000
-DTSTAMP:20260917T090827Z
-DESCRIPTION:Reprise de l'activité du vestiaire.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Présentation et conférence : « Plénitude la prière – le com
- bat spirituel »
-DTSTART;TZID=Europe/Paris:20260915T194500
-DTEND;TZID=Europe/Paris:20260915T204500
-DTSTAMP:20260917T090827Z
-DESCRIPTION:Conférence sur l'ouvrage thomiste et d'esprit traditionnel en
-  salle de catéchisme\, après la messe chantée. Entrée libre.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cours de catéchisme pour adultes (jeudi)
+SUMMARY:Cours de catéchisme pour adultes
 DTSTART;TZID=Europe/Paris:20260917T193000
 DTEND;TZID=Europe/Paris:20260917T203000
-DTSTAMP:20260917T090827Z
-DESCRIPTION:Reprise du catéchisme pour adultes. Entrée libre\, sans insc
- ription. Ouvert à tous.
+DTSTAMP:20260918T084231Z
+DESCRIPTION:Reprise des cours de catéchisme pour adultes. Entrée libre.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Journées du patrimoine - Permanence
-DTSTART;TZID=Europe/Paris:20260919T100000
-DTEND;TZID=Europe/Paris:20260919T120000
-DTSTAMP:20260917T090827Z
-DESCRIPTION:Permanence d'accueil dans l'église pour les journées du patr
- imoine.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cours de catéchisme pour adultes (samedi)
+SUMMARY:Cours de catéchisme pour adultes
 DTSTART;TZID=Europe/Paris:20260919T110000
 DTEND;TZID=Europe/Paris:20260919T120000
-DTSTAMP:20260917T090827Z
-DESCRIPTION:Reprise du catéchisme pour adultes (session du samedi matin).
-  Entrée libre\, sans inscription.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Journées du patrimoine - Permanence
-DTSTART;TZID=Europe/Paris:20260919T140000
-DTEND;TZID=Europe/Paris:20260919T180000
-DTSTAMP:20260917T090827Z
-DESCRIPTION:Permanence d'accueil dans l'église pour les journées du patr
- imoine.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Journées du patrimoine - Visite nocturne
-DTSTART;TZID=Europe/Paris:20260919T193000
-DTEND;TZID=Europe/Paris:20260919T203000
-DTSTAMP:20260917T090827Z
-DESCRIPTION:Visite nocturne de l'église.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Quête pour le groupe scout
-DTSTART;TZID=Europe/Paris:20260920T080000
-DTEND;TZID=Europe/Paris:20260920T130000
-DTSTAMP:20260917T090827Z
-DESCRIPTION:Quête à la sortie des messes dominicales pour soutenir le gr
- oupe scout.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Journées du patrimoine - Visite de l'église
-DTSTART;TZID=Europe/Paris:20260920T153000
-DTEND;TZID=Europe/Paris:20260920T163000
-DTSTAMP:20260917T090827Z
-DESCRIPTION:Visite guidée ou permanence dans le cadre des journées du pa
- trimoine.
+DTSTAMP:20260918T084231Z
+DESCRIPTION:Deuxième session hebdomadaire du cours de catéchisme pour ad
+ ultes.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cours de doctrine approfondie
 DTSTART;TZID=Europe/Paris:20260922T191500
 DTEND;TZID=Europe/Paris:20260922T201500
-DTSTAMP:20260917T090827Z
+DTSTAMP:20260918T084231Z
 DESCRIPTION:Reprise des cours de doctrine approfondie. Entrée libre et sa
  ns inscription.
 END:VEVENT
@@ -102,22 +38,73 @@ BEGIN:VEVENT
 SUMMARY:Cours de théologie de l’Église
 DTSTART;TZID=Europe/Paris:20260923T200000
 DTEND;TZID=Europe/Paris:20260923T210000
-DTSTAMP:20260917T090827Z
+DTSTAMP:20260918T084231Z
 DESCRIPTION:Reprise des cours donnés par Monsieur l’abbé Jean-Michel G
  LEIZE. Entrée libre sans inscription.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kermesse paroissiale - Jour 1
-DTSTART;TZID=Europe/Paris:20261003T140000
-DTEND;TZID=Europe/Paris:20261003T190000
-DTSTAMP:20260917T090827Z
-DESCRIPTION:Kermesse de la paroisse (samedi après-midi).
+SUMMARY:Service d’entraide
+DTSTART;TZID=Europe/Paris:20260910T150000
+DTEND;TZID=Europe/Paris:20260910T160000
+DTSTAMP:20260918T084231Z
+DESCRIPTION:Reprise du service d'entraide.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kermesse paroissiale - Jour 2
+SUMMARY:Reprise du vestiaire
+DTSTART;TZID=Europe/Paris:20260914T140000
+DTEND;TZID=Europe/Paris:20260914T150000
+DTSTAMP:20260918T084231Z
+DESCRIPTION:Reprise du vestiaire paroissial.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kermesse paroissiale - Samedi
+DTSTART;TZID=Europe/Paris:20261003T140000
+DTEND;TZID=Europe/Paris:20261003T150000
+DTSTAMP:20260918T084231Z
+DESCRIPTION:Kermesse paroissiale.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kermesse paroissiale - Dimanche
 DTSTART;TZID=Europe/Paris:20261004T090000
-DTEND;TZID=Europe/Paris:20261004T180000
-DTSTAMP:20260917T090827Z
-DESCRIPTION:Kermesse de la paroisse (dimanche toute la journée).
+DTEND;TZID=Europe/Paris:20261004T100000
+DTSTAMP:20260918T084231Z
+DESCRIPTION:Kermesse paroissiale.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Présentation et conférence : « Plénitude la prière – le com
+ bat spirituel »
+DTSTART;TZID=Europe/Paris:20260915T194500
+DTEND;TZID=Europe/Paris:20260915T204500
+DTSTAMP:20260918T084231Z
+DESCRIPTION:Présentation et conférence sur le livre en salle des catéch
+ ismes\, après la messe chantée. Entrée libre.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Journées du patrimoine - Permanence
+DTSTART;TZID=Europe/Paris:20260919T100000
+DTEND;TZID=Europe/Paris:20260919T120000
+DTSTAMP:20260918T084231Z
+DESCRIPTION:Permanence d'accueil en l'église.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Journées du patrimoine - Permanence
+DTSTART;TZID=Europe/Paris:20260919T140000
+DTEND;TZID=Europe/Paris:20260919T180000
+DTSTAMP:20260918T084231Z
+DESCRIPTION:Permanence d'accueil en l'église.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Journées du patrimoine - Visite nocturne
+DTSTART;TZID=Europe/Paris:20260919T193000
+DTEND;TZID=Europe/Paris:20260919T203000
+DTSTAMP:20260918T084231Z
+DESCRIPTION:Visite nocturne de l'église.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Journées du patrimoine - Visite
+DTSTART;TZID=Europe/Paris:20260920T153000
+DTEND;TZID=Europe/Paris:20260920T163000
+DTSTAMP:20260918T084231Z
+DESCRIPTION:Visite dominicale de l'église.
 END:VEVENT
 END:VCALENDAR
