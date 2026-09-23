@@ -4,115 +4,120 @@ PRODID:-//Saint-Nicolas-du-Chardonnet//SNC - Conférences et Cours//FR
 X-WR-CALNAME:SNC - Conférences et Cours
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-SUMMARY:Cours de doctrine approfondie (Abbé Gabriel Billecocq)
+SUMMARY:Reprise des cours de doctrine approfondie (Abbé Gabriel Billecoq)
 DTSTART;TZID=Europe/Paris:20260922T191500
 DTEND;TZID=Europe/Paris:20260922T201500
-DTSTAMP:20260922T085908Z
-DESCRIPTION:Reprise des cours de doctrine approfondie en salle des catéch
- ismes.
+DTSTAMP:20260923T090203Z
+DESCRIPTION:En salle des catéchismes\, cours dispensé par Monsieur l’a
+ bbé Gabriel Billecoq.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Messe chantée
+SUMMARY:Messe chantée de rentrée des étudiants
 DTSTART;TZID=Europe/Paris:20260923T183000
 DTEND;TZID=Europe/Paris:20260923T193000
-DTSTAMP:20260922T085908Z
-DESCRIPTION:Messe chantée suivie de la rentrée des étudiants.
+DTSTAMP:20260923T090203Z
+DESCRIPTION:Messe chantée suivie de la rentrée du Cercle Saint-Louis.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rentrée du Cercle Saint-Louis (Etudiants)
+SUMMARY:Rentrée du Cercle Saint-Louis
 DTSTART;TZID=Europe/Paris:20260923T193000
-DTEND;TZID=Europe/Paris:20260923T210000
-DTSTAMP:20260922T085908Z
+DTEND;TZID=Europe/Paris:20260923T213000
+DTSTAMP:20260923T090203Z
 DESCRIPTION:Présentation à la crypte des œuvres de la paroisse et de l
- ’aumônier Monsieur l’abbé Vincent d’ANDRÉ suivie d’un apéritif
-  sur le parvis.
+ ’aumônier Monsieur l’abbé Vincent d’André\, suivie d’un apérit
+ if sur le parvis.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cours de théologie de l’Église (Abbé Jean-Michel Gleize)
 DTSTART;TZID=Europe/Paris:20260923T200000
 DTEND;TZID=Europe/Paris:20260923T210000
-DTSTAMP:20260922T085908Z
-DESCRIPTION:« Le pouvoir de Magistère »\, en salle des catéchismes.
+DTSTAMP:20260923T090203Z
+DESCRIPTION:En salle des catéchismes. Thème : « Le pouvoir de Magistèr
+ e ».
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cours de catéchisme pour adultes (Abbé Michel Frament)
 DTSTART;TZID=Europe/Paris:20260924T193000
 DTEND;TZID=Europe/Paris:20260924T203000
-DTSTAMP:20260922T085908Z
-DESCRIPTION:En salle des catéchismes.
+DTSTAMP:20260923T090203Z
+DESCRIPTION:En salle des catéchismes\, par Monsieur l’abbé Michel Fram
+ ent.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Office du rosaire
 DTSTART;TZID=Europe/Paris:20260925T174500
 DTEND;TZID=Europe/Paris:20260925T184500
-DTSTAMP:20260922T085908Z
-DESCRIPTION:Office du rosaire aux intentions du Saint Père et pour la con
- version de la France.
+DTSTAMP:20260923T090203Z
+DESCRIPTION:Aux intentions du Saint Père (L’exaltation de la sainte Ég
+ lise catholique\, la propagation de la foi\, l’extirpation de l’héré
+ sie\, la conversion des pécheurs) et pour la conversion de la France Fill
+ e Aînée de l’Église.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cours de catéchisme pour adultes (Abbé Michel Frament)
 DTSTART;TZID=Europe/Paris:20260926T110000
 DTEND;TZID=Europe/Paris:20260926T120000
-DTSTAMP:20260922T085908Z
-DESCRIPTION:En salle des catéchismes.
+DTSTAMP:20260923T090203Z
+DESCRIPTION:En salle des catéchismes\, par Monsieur l’abbé Michel Fram
+ ent.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Messe de 10h30
+SUMMARY:Messe
 DTSTART;TZID=Europe/Paris:20260927T103000
-DTEND;TZID=Europe/Paris:20260927T113000
-DTSTAMP:20260922T085908Z
-DESCRIPTION:Messe dominicale suivie de l'apéritif paroissial.
+DTEND;TZID=Europe/Paris:20260927T114500
+DTSTAMP:20260923T090203Z
+DESCRIPTION:Messe dominicale\, suivie de l'apéritif paroissial.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Apéritif paroissial
-DTSTART;TZID=Europe/Paris:20260927T113000
-DTEND;TZID=Europe/Paris:20260927T123000
-DTSTAMP:20260922T085908Z
-DESCRIPTION:Servi par « Les Anges Gardiens » sur le parvis.
+DTSTART;TZID=Europe/Paris:20260927T114500
+DTEND;TZID=Europe/Paris:20260927T130000
+DTSTAMP:20260923T090203Z
+DESCRIPTION:Sur le parvis\, servi par « Les Anges Gardiens ».
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Les goûters de la conférence Saint-Vincent de Paul
 DTSTART;TZID=Europe/Paris:20260927T143000
-DTEND;TZID=Europe/Paris:20260927T153000
-DTSTAMP:20260922T085908Z
-DESCRIPTION:Avec projection du film « Traditio » partie 1\, « Devenir p
- rêtre »\, en salle des catéchismes.
+DTEND;TZID=Europe/Paris:20260927T163000
+DTSTAMP:20260923T090203Z
+DESCRIPTION:En salle des catéchismes\, avec projection du film « Traditi
+ o » partie 1\, « Devenir prêtre ».
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ouverture de la Kermesse paroissiale
+SUMMARY:Kermesse paroissiale - Ouverture
 DTSTART;TZID=Europe/Paris:20261003T140000
 DTEND;TZID=Europe/Paris:20261003T193000
-DTSTAMP:20260922T085908Z
+DTSTAMP:20260923T090203Z
+DESCRIPTION:Ouverture de la kermesse paroissiale.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kermesse paroissiale - Soirée musicale
+DTSTART;TZID=Europe/Paris:20261003T193000
+DTEND;TZID=Europe/Paris:20261003T223000
+DTSTAMP:20260923T090203Z
+DESCRIPTION:Soirée musicale et danses folkloriques.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kermesse paroissiale - Ouverture des stands
+DTSTART;TZID=Europe/Paris:20261004T090000
+DTEND;TZID=Europe/Paris:20261004T130000
+DTSTAMP:20260923T090203Z
 DESCRIPTION:Ouverture des stands de la kermesse.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Soirée musicale et danses folkloriques (Kermesse)
-DTSTART;TZID=Europe/Paris:20261003T193000
-DTEND;TZID=Europe/Paris:20261003T203000
-DTSTAMP:20260922T085908Z
-DESCRIPTION:Animation de soirée dans le cadre de la kermesse.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ouverture des stands (Kermesse)
-DTSTART;TZID=Europe/Paris:20261004T090000
-DTEND;TZID=Europe/Paris:20261004T130000
-DTSTAMP:20260922T085908Z
-DESCRIPTION:Ouverture dominicale des stands de la kermesse.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Déjeuner assis de la Kermesse
+SUMMARY:Kermesse paroissiale - Déjeuner assis
 DTSTART;TZID=Europe/Paris:20261004T130000
-DTEND;TZID=Europe/Paris:20261004T150000
-DTSTAMP:20260922T085908Z
-DESCRIPTION:Déjeuner assis en salle Saint-Germain. Inscription obligatoir
- e avant le samedi 26 septembre.
+DTEND;TZID=Europe/Paris:20261004T153000
+DTSTAMP:20260923T090203Z
+DESCRIPTION:En salle Saint-Germain. Sur inscription obligatoire avant le s
+ amedi 26 septembre.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pèlerinage du Christ-Roi à Lourdes
 DTSTART;TZID=Europe/Paris:20261024T080000
 DTEND;TZID=Europe/Paris:20261025T180000
-DTSTAMP:20260922T085908Z
-DESCRIPTION:Pèlerinage à Lourdes. Des tours de messes auront lieu dans l
- a cour des Sœurs du Rafflay. Inscription obligatoire avant le 18 octobre.
+DTSTAMP:20260923T090203Z
+DESCRIPTION:Des tours de messes auront lieu dans la cour des Sœurs du Raf
+ flay. Inscription obligatoire avant le 18 octobre.
 END:VEVENT
 END:VCALENDAR
