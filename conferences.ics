@@ -4,118 +4,51 @@ PRODID:-//Saint-Nicolas-du-Chardonnet//SNC - Conférences et Cours//FR
 X-WR-CALNAME:SNC - Conférences et Cours
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-SUMMARY:Reprise des cours de doctrine approfondie (Abbé Gabriel BILLECOCQ
- )
-DTSTART;TZID=Europe/Paris:20260922T191500
-DTEND;TZID=Europe/Paris:20260922T201500
-DTSTAMP:20260927T094646Z
-DESCRIPTION:En salle des catéchismes\, par Monsieur l'abbé Gabriel BILLE
- COCQ.
+SUMMARY:Conférence : Faut-il encore aujourd’hui lire l’Odyssée d’H
+ omère ?
+DTSTART;TZID=Europe/Paris:20260928T193000
+DTEND;TZID=Europe/Paris:20260928T203000
+DTSTAMP:20260928T102819Z
+DESCRIPTION:Conférence à l’Institut Universitaire Saint-Pie X par Mons
+ ieur Alain LANAVERE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Messe chantée (Rentrée des étudiants)
-DTSTART;TZID=Europe/Paris:20260923T183000
-DTEND;TZID=Europe/Paris:20260923T193000
-DTSTAMP:20260927T094646Z
-DESCRIPTION:Messe chantée de rentrée des étudiants.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rentrée du Cercle Saint-Louis
-DTSTART;TZID=Europe/Paris:20260923T193000
-DTEND;TZID=Europe/Paris:20260923T210000
-DTSTAMP:20260927T094646Z
-DESCRIPTION:Présentation à la crypte des œuvres de la paroisse et de l
- ’aumônier Monsieur l’abbé Vincent d’ANDRÉ suivie d’un apéritif
-  sur le parvis.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cours de théologie de l’Église (Abbé Jean-Michel GLEIZE)
-DTSTART;TZID=Europe/Paris:20260923T200000
-DTEND;TZID=Europe/Paris:20260923T210000
-DTSTAMP:20260927T094646Z
-DESCRIPTION:« Le pouvoir de Magistère »\, en salle des catéchismes.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cours de catéchisme pour adultes (Abbé Michel FRAMENT)
-DTSTART;TZID=Europe/Paris:20260924T193000
-DTEND;TZID=Europe/Paris:20260924T203000
-DTSTAMP:20260927T094646Z
-DESCRIPTION:En salle des catéchismes.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Office du rosaire aux intentions du Saint Père
-DTSTART;TZID=Europe/Paris:20260925T174500
-DTEND;TZID=Europe/Paris:20260925T184500
-DTSTAMP:20260927T094646Z
-DESCRIPTION:Office pour l'exaltation de la sainte Église catholique\, la 
- propagation de la foi\, l’extirpation de l’hérésie\, la conversion d
- es pécheurs et pour la conversion de la France.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cours de catéchisme pour adultes (Abbé Michel FRAMENT)
-DTSTART;TZID=Europe/Paris:20260926T110000
-DTEND;TZID=Europe/Paris:20260926T120000
-DTSTAMP:20260927T094646Z
-DESCRIPTION:En salle des catéchismes.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Messe dominicale
-DTSTART;TZID=Europe/Paris:20260927T103000
-DTEND;TZID=Europe/Paris:20260927T120000
-DTSTAMP:20260927T094646Z
-DESCRIPTION:Messe de 10h30\, suivie de l'apéritif paroissial.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Apéritif paroissial
-DTSTART;TZID=Europe/Paris:20260927T120000
-DTEND;TZID=Europe/Paris:20260927T130000
-DTSTAMP:20260927T094646Z
-DESCRIPTION:Sur le parvis\, servi par « Les Anges Gardiens » après la m
- esse.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Les goûters de la conférence Saint-Vincent de Paul
-DTSTART;TZID=Europe/Paris:20260927T143000
-DTEND;TZID=Europe/Paris:20260927T163000
-DTSTAMP:20260927T094646Z
-DESCRIPTION:En salle des catéchismes\, avec projection du film « Traditi
- o » partie 1\, « Devenir prêtre ».
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kermesse paroissiale - Ouverture
+SUMMARY:Kermesse : Ouverture des stands
 DTSTART;TZID=Europe/Paris:20261003T140000
 DTEND;TZID=Europe/Paris:20261003T193000
-DTSTAMP:20260927T094646Z
-DESCRIPTION:Ouverture de notre kermesse.
+DTSTAMP:20260928T102819Z
+DESCRIPTION:Nombreux stands (livres d’occasion\, brocante\, friperie\, b
+ ijoux\, artisanat des mamans\, jeux\, buvette …)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kermesse paroissiale - Soirée musicale et danses folkloriques
+SUMMARY:Kermesse : Soirée musicale et danses folkloriques
 DTSTART;TZID=Europe/Paris:20261003T193000
-DTEND;TZID=Europe/Paris:20261003T223000
-DTSTAMP:20260927T094646Z
+DTEND;TZID=Europe/Paris:20261003T213000
+DTSTAMP:20260928T102819Z
 DESCRIPTION:Soirée musicale et danses folkloriques dans le cadre de la ke
- rmesse.
+ rmesse
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kermesse paroissiale - Ouverture des stands
+SUMMARY:Kermesse : Ouverture des stands
 DTSTART;TZID=Europe/Paris:20261004T090000
 DTEND;TZID=Europe/Paris:20261004T130000
-DTSTAMP:20260927T094646Z
-DESCRIPTION:Ouverture des stands de la kermesse.
+DTSTAMP:20260928T102819Z
+DESCRIPTION:Suite de la kermesse\, restauration rapide (frites saucisses e
+ t crêpes) servie sur le parvis
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kermesse paroissiale - Déjeuner assis
+SUMMARY:Kermesse : Déjeuner assis
 DTSTART;TZID=Europe/Paris:20261004T130000
-DTEND;TZID=Europe/Paris:20261004T153000
-DTSTAMP:20260927T094646Z
-DESCRIPTION:Déjeuner assis en salle Saint-Germain (inscription obligatoir
- e avant le samedi 26 septembre).
+DTEND;TZID=Europe/Paris:20261004T150000
+DTSTAMP:20260928T102819Z
+DESCRIPTION:Déjeuner assis en salle Saint-Germain (sur inscription avant 
+ le lundi 28 septembre à 13h00)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pèlerinage du Christ-Roi à Lourdes
 DTSTART;TZID=Europe/Paris:20261024T080000
 DTEND;TZID=Europe/Paris:20261025T180000
-DTSTAMP:20260927T094646Z
+DTSTAMP:20260928T102819Z
 DESCRIPTION:Tours de messes dans la cour des Sœurs du Rafflay. Inscriptio
  n obligatoire avant le 18 octobre.
 END:VEVENT
