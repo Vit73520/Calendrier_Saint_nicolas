@@ -1,6 +1,6 @@
 # Calendrier Saint-Nicolas-du-Chardonnet
 
-Ce projet permet de générer automatiquement des calendriers (fichiers `.ics`) pour la paroisse Saint-Nicolas-du-Chardonnet. Les calendriers sont mis à jour quotidiennement en analysant le site officiel grâce à l'IA (Google Gemini).
+Ce projet permet de générer automatiquement des calendriers (fichiers `.ics`) pour la paroisse Saint-Nicolas-du-Chardonnet. Les calendriers sont mis à jour chaque dimanche et lundi en analysant le site officiel grâce à l'IA (Google Gemini).
 
 ## Calendriers disponibles
 
@@ -34,7 +34,7 @@ Pour que l'automatisation GitHub Actions fonctionne correctement :
 5. Ajoutez un secret avec :
    - **Name**: `GEMINI_API_KEY`
    - **Secret**: Votre clé d'API Google Gemini (que vous pouvez obtenir sur Google AI Studio).
-6. Le script s'exécutera automatiquement chaque jour à minuit. Vous pouvez aussi le lancer manuellement dans l'onglet **Actions**.
+6. Le script s'exécutera automatiquement chaque dimanche et lundi à 4h00 UTC. Vous pouvez aussi le lancer manuellement dans l'onglet **Actions**.
 
 ## Exécution locale
 
