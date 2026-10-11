@@ -7,40 +7,39 @@ BEGIN:VEVENT
 SUMMARY:Rentrée des Anges Gardiens
 DTSTART;TZID=Europe/Paris:20261006T200000
 DTEND;TZID=Europe/Paris:20261006T220000
-DTSTAMP:20261005T111321Z
-DESCRIPTION:À la crypte\, ouverte à tous. Au programme : 20h00 : repas t
- iré du sac \; 20h45 : présentation de l’œuvre et conférence de Monsi
- eur l’abbé Michel FRAMENT : « Smartphones : le piège dans la poche ! 
- » \; 21h30 : dessert et prière du soir.
+DTSTAMP:20261011T103820Z
+DESCRIPTION:À la crypte. À 20h00 : repas tiré du sac \; 20h45 : présen
+ tation de l’œuvre et conférence de M. l'abbé Michel FRAMENT « Smartp
+ hones : le piège dans la poche ! » \; 21h30 : dessert et prière du soir
+ .
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cours de théologie de l’Église
 DTSTART;TZID=Europe/Paris:20261007T200000
 DTEND;TZID=Europe/Paris:20261007T210000
-DTSTAMP:20261005T111321Z
-DESCRIPTION:Par Monsieur l’abbé Jean-Michel GLEIZE : « Magistère et i
- nfaillibilité : les raisons d’une crise ».
+DTSTAMP:20261011T103820Z
+DESCRIPTION:Par M. l’abbé Jean-Michel GLEIZE : « Magistère et infaill
+ ibilité : les raisons d’une crise ».
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Consultations notariales gratuites
 DTSTART;TZID=Europe/Paris:20261009T183000
 DTEND;TZID=Europe/Paris:20261009T193000
-DTSTAMP:20261005T111321Z
+DTSTAMP:20261011T103820Z
 DESCRIPTION:En salle des catéchismes.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vente de produits vendéens
 DTSTART;TZID=Europe/Paris:20261011T090000
-DTEND;TZID=Europe/Paris:20261011T130000
-DTSTAMP:20261005T111321Z
-DESCRIPTION:Sur le parvis\, vente au profit de l’école de l’Épiphani
- e.
+DTEND;TZID=Europe/Paris:20261011T120000
+DTSTAMP:20261011T103820Z
+DESCRIPTION:Sur le parvis\, au profit de l’école de l’Épiphanie.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pèlerinage du Christ-Roi à Lourdes
 DTSTART;TZID=Europe/Paris:20261024T080000
 DTEND;TZID=Europe/Paris:20261025T180000
-DTSTAMP:20261005T111321Z
+DTSTAMP:20261011T103820Z
 DESCRIPTION:Des tours de messes auront lieu dans la cour des Sœurs du Raf
  flay. Inscription obligatoire avant le 18 octobre.
 END:VEVENT
