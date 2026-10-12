@@ -4,43 +4,58 @@ PRODID:-//Saint-Nicolas-du-Chardonnet//SNC - Conférences et Cours//FR
 X-WR-CALNAME:SNC - Conférences et Cours
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-SUMMARY:Rentrée des Anges Gardiens
-DTSTART;TZID=Europe/Paris:20261006T200000
-DTEND;TZID=Europe/Paris:20261006T220000
-DTSTAMP:20261011T103820Z
-DESCRIPTION:À la crypte. À 20h00 : repas tiré du sac \; 20h45 : présen
- tation de l’œuvre et conférence de M. l'abbé Michel FRAMENT « Smartp
- hones : le piège dans la poche ! » \; 21h30 : dessert et prière du soir
- .
+SUMMARY:Réunion du Tiers Ordre de la FSSPX et des anciens retraitants
+DTSTART;TZID=Europe/Paris:20261012T191500
+DTEND;TZID=Europe/Paris:20261012T201500
+DTSTAMP:20261012T114207Z
+DESCRIPTION:À l’issue de la messe de 18h30.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cours de théologie de l’Église
-DTSTART;TZID=Europe/Paris:20261007T200000
-DTEND;TZID=Europe/Paris:20261007T210000
-DTSTAMP:20261011T103820Z
-DESCRIPTION:Par M. l’abbé Jean-Michel GLEIZE : « Magistère et infaill
- ibilité : les raisons d’une crise ».
+SUMMARY:Conférence du Cercle Saint-Louis : « Avoir du caractère : natur
+ e et formation »
+DTSTART;TZID=Europe/Paris:20261014T200000
+DTEND;TZID=Europe/Paris:20261014T210000
+DTSTAMP:20261012T114207Z
+DESCRIPTION:Par Monsieur l’abbé Vincent d’ANDRÉ\, après la messe de
+ s étudiants\, en salle des catéchismes.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Consultations notariales gratuites
-DTSTART;TZID=Europe/Paris:20261009T183000
-DTEND;TZID=Europe/Paris:20261009T193000
-DTSTAMP:20261011T103820Z
+SUMMARY:Consultations juridiques gratuites
+DTSTART;TZID=Europe/Paris:20261016T180000
+DTEND;TZID=Europe/Paris:20261016T190000
+DTSTAMP:20261012T114207Z
 DESCRIPTION:En salle des catéchismes.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vente de produits vendéens
-DTSTART;TZID=Europe/Paris:20261011T090000
-DTEND;TZID=Europe/Paris:20261011T120000
-DTSTAMP:20261011T103820Z
-DESCRIPTION:Sur le parvis\, au profit de l’école de l’Épiphanie.
+SUMMARY:Leçon de rentrée et remise solennelle des diplômes
+DTSTART;TZID=Europe/Paris:20261017T140000
+DTEND;TZID=Europe/Paris:20261017T180000
+DTSTAMP:20261012T114207Z
+DESCRIPTION:À l’Institut universitaire Saint-Pie X. Conférence du prof
+ esseur Alexandre GRANDAZZI sur les racines gréco-latines de l’Europe.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pèlerinage du Christ-Roi à Lourdes
-DTSTART;TZID=Europe/Paris:20261024T080000
-DTEND;TZID=Europe/Paris:20261025T180000
-DTSTAMP:20261011T103820Z
-DESCRIPTION:Des tours de messes auront lieu dans la cour des Sœurs du Raf
- flay. Inscription obligatoire avant le 18 octobre.
+SUMMARY:Présentation de l'atelier couture
+DTSTART;TZID=Europe/Paris:20261017T150000
+DTEND;TZID=Europe/Paris:20261017T160000
+DTSTAMP:20261012T114207Z
+DESCRIPTION:Présentation d’une nouvelle activité paroissiale en salle 
+ des catéchismes\, ouvert à toutes les personnes intéressées.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Journée des Missions (Quête)
+DTSTART;TZID=Europe/Paris:20261018T080000
+DTEND;TZID=Europe/Paris:20261018T190000
+DTSTAMP:20261012T114207Z
+DESCRIPTION:À la sortie des messes\, quête au profit des Missions de la 
+ Fraternité Sacerdotale Saint-Pie X du district d’Afrique et spécialeme
+ nt pour la mission au Kenya.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visite guidée de l’église
+DTSTART;TZID=Europe/Paris:20261018T153000
+DTEND;TZID=Europe/Paris:20261018T163000
+DTSTAMP:20261012T114207Z
+DESCRIPTION:Visite guidée de l'église Saint-Nicolas-du-Chardonnet.
 END:VEVENT
 END:VCALENDAR
