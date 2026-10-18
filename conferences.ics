@@ -7,30 +7,30 @@ BEGIN:VEVENT
 SUMMARY:Réunion du Tiers Ordre de la FSSPX et des anciens retraitants
 DTSTART;TZID=Europe/Paris:20261012T191500
 DTEND;TZID=Europe/Paris:20261012T201500
-DTSTAMP:20261012T114207Z
+DTSTAMP:20261018T083607Z
 DESCRIPTION:À l’issue de la messe de 18h30.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Conférence du Cercle Saint-Louis : « Avoir du caractère : natur
- e et formation »
+SUMMARY:Conférence pour le Cercle Saint-Louis
 DTSTART;TZID=Europe/Paris:20261014T200000
 DTEND;TZID=Europe/Paris:20261014T210000
-DTSTAMP:20261012T114207Z
-DESCRIPTION:Par Monsieur l’abbé Vincent d’ANDRÉ\, après la messe de
- s étudiants\, en salle des catéchismes.
+DTSTAMP:20261018T083607Z
+DESCRIPTION:« Avoir du caractère : nature et formation » par Monsieur l
+ ’abbé Vincent d’ANDRÉ. En salle des catéchismes\, après la messe d
+ es étudiants.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Consultations juridiques gratuites
 DTSTART;TZID=Europe/Paris:20261016T180000
 DTEND;TZID=Europe/Paris:20261016T190000
-DTSTAMP:20261012T114207Z
+DTSTAMP:20261018T083607Z
 DESCRIPTION:En salle des catéchismes.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leçon de rentrée et remise solennelle des diplômes
+SUMMARY:Leçon de rentrée\, remise des diplômes et conférence
 DTSTART;TZID=Europe/Paris:20261017T140000
 DTEND;TZID=Europe/Paris:20261017T180000
-DTSTAMP:20261012T114207Z
+DTSTAMP:20261018T083607Z
 DESCRIPTION:À l’Institut universitaire Saint-Pie X. Conférence du prof
  esseur Alexandre GRANDAZZI sur les racines gréco-latines de l’Europe.
 END:VEVENT
@@ -38,15 +38,15 @@ BEGIN:VEVENT
 SUMMARY:Présentation de l'atelier couture
 DTSTART;TZID=Europe/Paris:20261017T150000
 DTEND;TZID=Europe/Paris:20261017T160000
-DTSTAMP:20261012T114207Z
-DESCRIPTION:Présentation d’une nouvelle activité paroissiale en salle 
- des catéchismes\, ouvert à toutes les personnes intéressées.
+DTSTAMP:20261018T083607Z
+DESCRIPTION:Présentation d’une nouvelle activité paroissiale\, ouverte
+  à toutes les personnes intéressées. En salle des catéchismes.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Journée des Missions (Quête)
+SUMMARY:Journée des Missions - Quête
 DTSTART;TZID=Europe/Paris:20261018T080000
 DTEND;TZID=Europe/Paris:20261018T190000
-DTSTAMP:20261012T114207Z
+DTSTAMP:20261018T083607Z
 DESCRIPTION:À la sortie des messes\, quête au profit des Missions de la 
  Fraternité Sacerdotale Saint-Pie X du district d’Afrique et spécialeme
  nt pour la mission au Kenya.
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:Visite guidée de l’église
 DTSTART;TZID=Europe/Paris:20261018T153000
 DTEND;TZID=Europe/Paris:20261018T163000
-DTSTAMP:20261012T114207Z
-DESCRIPTION:Visite guidée de l'église Saint-Nicolas-du-Chardonnet.
+DTSTAMP:20261018T083607Z
+DESCRIPTION:Visite guidée de l'église.
 END:VEVENT
 END:VCALENDAR
