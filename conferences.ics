@@ -4,58 +4,45 @@ PRODID:-//Saint-Nicolas-du-Chardonnet//SNC - Conférences et Cours//FR
 X-WR-CALNAME:SNC - Conférences et Cours
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-SUMMARY:Réunion du Tiers Ordre de la FSSPX et des anciens retraitants
-DTSTART;TZID=Europe/Paris:20261012T191500
-DTEND;TZID=Europe/Paris:20261012T201500
-DTSTAMP:20261018T083607Z
-DESCRIPTION:À l’issue de la messe de 18h30.
+SUMMARY:Conférence : Ducaud-Bourget poète et le monde littéraire franç
+ ais des années 1930-1950
+DTSTART;TZID=Europe/Paris:20261019T193000
+DTEND;TZID=Europe/Paris:20261019T203000
+DTSTAMP:20261019T093826Z
+DESCRIPTION:Conférence à l’Institut Universitaire Saint-Pie X par Mons
+ ieur l’abbé Joël MALASSAGNE.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Conférence pour le Cercle Saint-Louis
-DTSTART;TZID=Europe/Paris:20261014T200000
-DTEND;TZID=Europe/Paris:20261014T210000
-DTSTAMP:20261018T083607Z
-DESCRIPTION:« Avoir du caractère : nature et formation » par Monsieur l
- ’abbé Vincent d’ANDRÉ. En salle des catéchismes\, après la messe d
- es étudiants.
+SUMMARY:Réunion de la Conférence Saint-Vincent de Paul
+DTSTART;TZID=Europe/Paris:20261020T193000
+DTEND;TZID=Europe/Paris:20261020T203000
+DTSTAMP:20261019T093826Z
+DESCRIPTION:Réunion de la Conférence Saint-Vincent de Paul.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Consultations juridiques gratuites
-DTSTART;TZID=Europe/Paris:20261016T180000
-DTEND;TZID=Europe/Paris:20261016T190000
-DTSTAMP:20261018T083607Z
-DESCRIPTION:En salle des catéchismes.
+SUMMARY:Cours de théologie de l’Église
+DTSTART;TZID=Europe/Paris:20261021T200000
+DTEND;TZID=Europe/Paris:20261021T210000
+DTSTAMP:20261019T093826Z
+DESCRIPTION:Par Monsieur l’abbé Jean-Michel GLEIZE : « Magistère Ordi
+ naire Universel : quelle infaillibilité ? »
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leçon de rentrée\, remise des diplômes et conférence
-DTSTART;TZID=Europe/Paris:20261017T140000
-DTEND;TZID=Europe/Paris:20261017T180000
-DTSTAMP:20261018T083607Z
-DESCRIPTION:À l’Institut universitaire Saint-Pie X. Conférence du prof
- esseur Alexandre GRANDAZZI sur les racines gréco-latines de l’Europe.
+SUMMARY:Réunion des Jeunes Pros - Conférence « Peut-on concilier laïci
+ té et Cité catholique ? »
+DTSTART;TZID=Europe/Paris:20261021T200000
+DTEND;TZID=Europe/Paris:20261021T210000
+DTSTAMP:20261019T093826Z
+DESCRIPTION:À Notre-Dame de Consolation (Paris 8e). Programme sur l’aff
+ iche à l’entrée de l’église.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Présentation de l'atelier couture
-DTSTART;TZID=Europe/Paris:20261017T150000
-DTEND;TZID=Europe/Paris:20261017T160000
-DTSTAMP:20261018T083607Z
-DESCRIPTION:Présentation d’une nouvelle activité paroissiale\, ouverte
-  à toutes les personnes intéressées. En salle des catéchismes.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Journée des Missions - Quête
-DTSTART;TZID=Europe/Paris:20261018T080000
-DTEND;TZID=Europe/Paris:20261018T190000
-DTSTAMP:20261018T083607Z
-DESCRIPTION:À la sortie des messes\, quête au profit des Missions de la 
- Fraternité Sacerdotale Saint-Pie X du district d’Afrique et spécialeme
- nt pour la mission au Kenya.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Visite guidée de l’église
-DTSTART;TZID=Europe/Paris:20261018T153000
-DTEND;TZID=Europe/Paris:20261018T163000
-DTSTAMP:20261018T083607Z
-DESCRIPTION:Visite guidée de l'église.
+SUMMARY:Projection du film « Le Procès Staline »
+DTSTART;TZID=Europe/Paris:20261024T160000
+DTEND;TZID=Europe/Paris:20261024T170000
+DTSTAMP:20261019T093826Z
+DESCRIPTION:À Paris\, projection du film réalisé par de jeunes paroissi
+ ens. Réservation obligatoire. Renseignements sur l’affiche à l’entr
+ ée de l’église.
 END:VEVENT
 END:VCALENDAR
