@@ -4,45 +4,44 @@ PRODID:-//Saint-Nicolas-du-Chardonnet//SNC - Conférences et Cours//FR
 X-WR-CALNAME:SNC - Conférences et Cours
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-SUMMARY:Conférence : Ducaud-Bourget poète et le monde littéraire franç
- ais des années 1930-1950
-DTSTART;TZID=Europe/Paris:20261019T193000
-DTEND;TZID=Europe/Paris:20261019T203000
-DTSTAMP:20261019T093826Z
-DESCRIPTION:Conférence à l’Institut Universitaire Saint-Pie X par Mons
- ieur l’abbé Joël MALASSAGNE.
+SUMMARY:Conférence : « Ducaud-Bourget poète et le monde littéraire fra
+ nçais des années 1930-1950 »
+DTSTART;TZID=Europe/Paris:20201019T193000
+DTEND;TZID=Europe/Paris:20201019T203000
+DTSTAMP:20261025T085845Z
+DESCRIPTION:Par Monsieur l’abbé Joël MALASSAGNE\, à l’Institut Univ
+ ersitaire Saint-Pie X.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Réunion de la Conférence Saint-Vincent de Paul
-DTSTART;TZID=Europe/Paris:20261020T193000
-DTEND;TZID=Europe/Paris:20261020T203000
-DTSTAMP:20261019T093826Z
-DESCRIPTION:Réunion de la Conférence Saint-Vincent de Paul.
+DTSTART;TZID=Europe/Paris:20201020T193000
+DTEND;TZID=Europe/Paris:20201020T203000
+DTSTAMP:20261025T085845Z
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cours de théologie de l’Église
-DTSTART;TZID=Europe/Paris:20261021T200000
-DTEND;TZID=Europe/Paris:20261021T210000
-DTSTAMP:20261019T093826Z
-DESCRIPTION:Par Monsieur l’abbé Jean-Michel GLEIZE : « Magistère Ordi
- naire Universel : quelle infaillibilité ? »
+SUMMARY:Cours de théologie de l’Église : « Magistère Ordinaire Unive
+ rsel : quelle infaillibilité ? »
+DTSTART;TZID=Europe/Paris:20201021T200000
+DTEND;TZID=Europe/Paris:20201021T210000
+DTSTAMP:20261025T085845Z
+DESCRIPTION:Par Monsieur l’abbé Jean-Michel GLEIZE.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Réunion des Jeunes Pros - Conférence « Peut-on concilier laïci
- té et Cité catholique ? »
-DTSTART;TZID=Europe/Paris:20261021T200000
-DTEND;TZID=Europe/Paris:20261021T210000
-DTSTAMP:20261019T093826Z
+SUMMARY:Réunion des Jeunes Pros : « Peut-on concilier laïcité et Cité
+  catholique ? »
+DTSTART;TZID=Europe/Paris:20201021T200000
+DTEND;TZID=Europe/Paris:20201021T210000
+DTSTAMP:20261025T085845Z
 DESCRIPTION:À Notre-Dame de Consolation (Paris 8e). Programme sur l’aff
  iche à l’entrée de l’église.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Projection du film « Le Procès Staline »
-DTSTART;TZID=Europe/Paris:20261024T160000
-DTEND;TZID=Europe/Paris:20261024T170000
-DTSTAMP:20261019T093826Z
-DESCRIPTION:À Paris\, projection du film réalisé par de jeunes paroissi
- ens. Réservation obligatoire. Renseignements sur l’affiche à l’entr
- ée de l’église.
+DTSTART;TZID=Europe/Paris:20201024T160000
+DTEND;TZID=Europe/Paris:20201024T170000
+DTSTAMP:20261025T085845Z
+DESCRIPTION:Film réalisé par de jeunes paroissiens\, à Paris. Réservat
+ ion obligatoire. Renseignements sur l’affiche à l’entrée de l’égl
+ ise.
 END:VEVENT
 END:VCALENDAR
