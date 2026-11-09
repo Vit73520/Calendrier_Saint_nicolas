@@ -4,40 +4,41 @@ PRODID:-//Saint-Nicolas-du-Chardonnet//SNC - Conférences et Cours//FR
 X-WR-CALNAME:SNC - Conférences et Cours
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-SUMMARY:Messes basses - Commémoration des fidèles défunts
-DTSTART;TZID=Europe/Paris:20261102T071500
-DTEND;TZID=Europe/Paris:20261102T130000
-DTSTAMP:20261108T110423Z
-DESCRIPTION:Messes basses célébrées toutes les demi-heures.
+SUMMARY:Réunion du Tiers-Ordre de la Fraternité Sacerdotale Saint-Pie X 
+ et des anciens retraitants
+DTSTART;TZID=Europe/Paris:20261109T191500
+DTEND;TZID=Europe/Paris:20261109T201500
+DTSTAMP:20261109T123409Z
+DESCRIPTION:A l’issue de la messe de 18h30.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Messe solennelle de Requiem
-DTSTART;TZID=Europe/Paris:20261102T183000
-DTEND;TZID=Europe/Paris:20261102T193000
-DTSTAMP:20261108T110423Z
-DESCRIPTION:Suivie de l’absoute pour les défunts de la paroisse.
+SUMMARY:Conférence : Le Japon est-il de retour ?
+DTSTART;TZID=Europe/Paris:20261109T193000
+DTEND;TZID=Europe/Paris:20261109T203000
+DTSTAMP:20261109T123409Z
+DESCRIPTION:Conférence à l’Institut Universitaire Saint-Pie X\, par Mo
+ nsieur Antoine de LACOSTE\, dans le cadre du cycle de géopolitique.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cours de théologie de l’Église par M. Jean-Michel GLEIZE : « 
- Quel Magistère ? »
-DTSTART;TZID=Europe/Paris:20261104T200000
-DTEND;TZID=Europe/Paris:20261104T210000
-DTSTAMP:20261108T110423Z
+SUMMARY:Réunion du Tiers-Ordre carmélitain
+DTSTART;TZID=Europe/Paris:20261112T190000
+DTEND;TZID=Europe/Paris:20261112T200000
+DTSTAMP:20261109T123409Z
 DESCRIPTION:En salle des catéchismes.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Marché de Noël des Sœurs de la Fraternité Saint-Pie X
-DTSTART;TZID=Europe/Paris:20261108T090000
-DTEND;TZID=Europe/Paris:20261108T180000
-DTSTAMP:20261108T110423Z
-DESCRIPTION:Accueil en salle des catéchismes et sur le parvis.
+SUMMARY:Consultations notariales gratuites
+DTSTART;TZID=Europe/Paris:20261113T183000
+DTEND;TZID=Europe/Paris:20261113T193000
+DTSTAMP:20261109T123409Z
+DESCRIPTION:Consultations notariales gratuites.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Conférence : « Carlo ACUTIS : un jeune saint ? »
+SUMMARY:Conférence : Carlo AUCUTIS : un jeune saint ?
 DTSTART;TZID=Europe/Paris:20261113T193000
 DTEND;TZID=Europe/Paris:20261113T203000
-DTSTAMP:20261108T110423Z
-DESCRIPTION:Conférence par M. l’abbé Philippe TOULZA\, salle des caté
- chismes.
+DTSTAMP:20261109T123409Z
+DESCRIPTION:Conférence de M. l’abbé Philippe TOULZA\, salle des catéc
+ hismes.
 END:VEVENT
 END:VCALENDAR
