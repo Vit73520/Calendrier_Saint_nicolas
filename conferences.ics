@@ -4,41 +4,47 @@ PRODID:-//Saint-Nicolas-du-Chardonnet//SNC - Conférences et Cours//FR
 X-WR-CALNAME:SNC - Conférences et Cours
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-SUMMARY:Réunion du Tiers-Ordre de la FSSPX et des anciens retraitants
-DTSTART;TZID=Europe/Paris:20261109T191500
-DTEND;TZID=Europe/Paris:20261109T201500
-DTSTAMP:20261115T114705Z
-DESCRIPTION:À l'issue de la messe de 18h30\, réunion du Tiers-Ordre de l
- a Fraternité Sacerdotale Saint-Pie X et des anciens retraitants.
+SUMMARY:Conférence : « Invitation au retour des orthodoxes à l’unité
+  romaine »
+DTSTART;TZID=Europe/Paris:20261116T193000
+DTEND;TZID=Europe/Paris:20261116T203000
+DTSTAMP:20261116T122815Z
+DESCRIPTION:Par le Père Jean-Dominique à l’Institut Universitaire Sain
+ t-Pie X.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Conférence : « Le Japon est-il de retour ? »
-DTSTART;TZID=Europe/Paris:20261109T193000
-DTEND;TZID=Europe/Paris:20261109T203000
-DTSTAMP:20261115T114705Z
-DESCRIPTION:Conférence à l’Institut Universitaire Saint-Pie X\, par Mo
- nsieur Antoine de LACOSTE\, dans le cadre du cycle de géopolitique.
+SUMMARY:Réunion de la Conférence Saint-Vincent de Paul
+DTSTART;TZID=Europe/Paris:20261117T193000
+DTEND;TZID=Europe/Paris:20261117T203000
+DTSTAMP:20261116T122815Z
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Réunion du Tiers-Ordre carmélitain
-DTSTART;TZID=Europe/Paris:20261112T193000
-DTEND;TZID=Europe/Paris:20261112T203000
-DTSTAMP:20261115T114705Z
-DESCRIPTION:En salle des catéchismes.
+SUMMARY:Consultations juridiques gratuites
+DTSTART;TZID=Europe/Paris:20261120T180000
+DTEND;TZID=Europe/Paris:20261120T190000
+DTSTAMP:20261116T122815Z
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Consultations notariales gratuites
-DTSTART;TZID=Europe/Paris:20261113T183000
-DTEND;TZID=Europe/Paris:20261113T193000
-DTSTAMP:20261115T114705Z
-DESCRIPTION:Consultations notariales gratuites.
+SUMMARY:Conférence sur l’histoire de la paroisse Saint-Nicolas du Chard
+ onnet et dédicace
+DTSTART;TZID=Europe/Paris:20261120T193000
+DTEND;TZID=Europe/Paris:20261120T203000
+DTSTAMP:20261116T122815Z
+DESCRIPTION:En salle des catéchismes. Dédicace de son livre par l’aute
+ ur. Renseignements sur l’affiche à l’entrée de l’église.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Conférence : « Carlo ACUTIS : un jeune saint ? »
-DTSTART;TZID=Europe/Paris:20261113T193000
-DTEND;TZID=Europe/Paris:20261113T203000
-DTSTAMP:20261115T114705Z
-DESCRIPTION:Conférence de M. l’abbé Philippe TOULZA en salle des caté
- chismes.
+SUMMARY:Marché de Noël de l’école Saint-Louis
+DTSTART;TZID=Europe/Paris:20261121T140000
+DTEND;TZID=Europe/Paris:20261121T180000
+DTSTAMP:20261116T122815Z
+DESCRIPTION:Venez nombreux soutenir notre école paroissiale.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marché de Noël de l’école Saint-Louis
+DTSTART;TZID=Europe/Paris:20261122T110000
+DTEND;TZID=Europe/Paris:20261122T180000
+DTSTAMP:20261116T122815Z
+DESCRIPTION:Venez nombreux soutenir notre école paroissiale.
 END:VEVENT
 END:VCALENDAR
