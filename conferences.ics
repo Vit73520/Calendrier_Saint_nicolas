@@ -4,47 +4,39 @@ PRODID:-//Saint-Nicolas-du-Chardonnet//SNC - Conférences et Cours//FR
 X-WR-CALNAME:SNC - Conférences et Cours
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-SUMMARY:Conférence : « Invitation au retour des orthodoxes à l’unité
-  romaine »
-DTSTART;TZID=Europe/Paris:20261116T193000
-DTEND;TZID=Europe/Paris:20261116T203000
-DTSTAMP:20261116T122815Z
-DESCRIPTION:Par le Père Jean-Dominique à l’Institut Universitaire Sain
- t-Pie X.
+SUMMARY:Conférence : Femmes peintres en France au XVIIIe siècle
+DTSTART;TZID=Europe/Paris:20261123T193000
+DTEND;TZID=Europe/Paris:20261123T203000
+DTSTAMP:20261123T140437Z
+DESCRIPTION:Conférence à l’Institut Universitaire Saint-Pie X par Mari
+ e-Laure TILLOY : « Femmes peintres en France au XVIIIe siècle. »
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Réunion de la Conférence Saint-Vincent de Paul
-DTSTART;TZID=Europe/Paris:20261117T193000
-DTEND;TZID=Europe/Paris:20261117T203000
-DTSTAMP:20261116T122815Z
+SUMMARY:Cours de théologie de l’Église : Le néo-Magistère de Vatican
+  II
+DTSTART;TZID=Europe/Paris:20261125T200000
+DTEND;TZID=Europe/Paris:20261125T210000
+DTSTAMP:20261123T140437Z
+DESCRIPTION:En salle des catéchismes\, cours de théologie de l’Église
+  par Monsieur l’abbé Jean-Michel GLEIZE : « Le néo-Magistère de Vati
+ can II. »
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Consultations juridiques gratuites
-DTSTART;TZID=Europe/Paris:20261120T180000
-DTEND;TZID=Europe/Paris:20261120T190000
-DTSTAMP:20261116T122815Z
+SUMMARY:Atelier couture
+DTSTART;TZID=Europe/Paris:20261128T150000
+DTEND;TZID=Europe/Paris:20261128T160000
+DTSTAMP:20261123T140437Z
+DESCRIPTION:En salle des catéchismes\, atelier couture.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Conférence sur l’histoire de la paroisse Saint-Nicolas du Chard
- onnet et dédicace
-DTSTART;TZID=Europe/Paris:20261120T193000
-DTEND;TZID=Europe/Paris:20261120T203000
-DTSTAMP:20261116T122815Z
-DESCRIPTION:En salle des catéchismes. Dédicace de son livre par l’aute
- ur. Renseignements sur l’affiche à l’entrée de l’église.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marché de Noël de l’école Saint-Louis
-DTSTART;TZID=Europe/Paris:20261121T140000
-DTEND;TZID=Europe/Paris:20261121T180000
-DTSTAMP:20261116T122815Z
-DESCRIPTION:Venez nombreux soutenir notre école paroissiale.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marché de Noël de l’école Saint-Louis
-DTSTART;TZID=Europe/Paris:20261122T110000
-DTEND;TZID=Europe/Paris:20261122T180000
-DTSTAMP:20261116T122815Z
-DESCRIPTION:Venez nombreux soutenir notre école paroissiale.
+SUMMARY:Marché de Noël de la conférence Saint-Vincent de Paul
+DTSTART;TZID=Europe/Paris:20261129T084500
+DTEND;TZID=Europe/Paris:20261129T143000
+DTSTAMP:20261123T140437Z
+DESCRIPTION:Sur le parvis et en salle des catéchismes\, marché de Noël 
+ pour récolter des fonds pour venir en aide aux plus démunis. Nombreux st
+ ands (livres\, objets religieux\, santons\, maroquinerie\, enluminures\, p
+ eintures marines\, bougies etc.). Déjeuner dans l’ambiance de Noël ser
+ vi à 12h00 au sous-sol.
 END:VEVENT
 END:VCALENDAR
